@@ -1,4 +1,4 @@
-# Assignment Overview
+# Assignment Overview - Module 1
 
 Welcome aboard the school bus of web development! Just like driving a school bus, developing quality web applications requires understanding and operating several controls. In this assignment, we'll focus on four essential tools: Git, Visual Studio Code (VSCode), Playwright, and Node.js.
 
